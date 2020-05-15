@@ -1,0 +1,27 @@
+body {                               background-image:url("https://images.samsung.com/is/image/samsung/br-ar5500-wall-mount-ac-with-fast-cooling-ar18nvfpcwknaz-frontpmgray-121406970?$PD_GALLERY_L_JPG$");
+    background-size: auto 500;
+    font-family:arial;
+    height:500vh
+  }
+  .menu{background-color:yellow;
+  }
+  a{
+    color: red;
+    text-decoration:none;
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  
+  .menu ul{
+    display: flex;                               justify-content: space-around;
+  }
+  .menu li{
+    list-style:none;
+  }
+  .site-subtitle;
+  .site-title; {
+    color-blue;                                   text-align:center;             }
+  
+  .site-subtitle;  {
+    font-style: italic; 
